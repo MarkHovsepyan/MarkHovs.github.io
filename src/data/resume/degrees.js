@@ -3,13 +3,13 @@ const degrees = [
     school: 'American University of Armenia',
     degree: 'MS in Management',
     link: 'https://www.tum.de/en/',
-    year: 'Present',
+    year: 2024,
   },
   {
     school: 'DAAD',
     degree: 'DAAD Scholarship',
     link: 'https://www.daad.de/en/',
-    year: 'Present',
+    year: 2024,
   },
   {
     school: 'American University of Armenia',
