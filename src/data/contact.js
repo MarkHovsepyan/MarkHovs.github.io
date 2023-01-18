@@ -41,7 +41,7 @@ const data = [
     icon: faSteam,
   },
   {
-    link: 'mailto:markhovsepyan98@gmail.com',
+    link: 'mailto:contact@markhovs.com',
     label: 'Email',
     icon: faEnvelope,
   },

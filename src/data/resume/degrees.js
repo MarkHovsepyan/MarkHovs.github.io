@@ -1,6 +1,18 @@
 const degrees = [
   {
     school: 'American University of Armenia',
+    degree: 'MS in Management',
+    link: 'https://www.tum.de/en/',
+    year: 'Present',
+  },
+  {
+    school: 'DAAD',
+    degree: 'DAAD Scholarship',
+    link: 'https://www.daad.de/en/',
+    year: 'Present',
+  },
+  {
+    school: 'American University of Armenia',
     degree: 'BS in Computer Science',
     link: 'https://aua.am/',
     year: 2020,
