@@ -1,6 +1,6 @@
 const degrees = [
   {
-    school: 'American University of Armenia',
+    school: 'Technische Universität München',
     degree: 'MS in Management',
     link: 'https://www.tum.de/en/',
     year: 2024,
